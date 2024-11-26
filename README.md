@@ -1,4 +1,4 @@
-# Parking-Slot-Management-using-PYNQ-Board
+# Parking Slot Management System
 
 ## Introduction
 This Verilog project simulates a parking slot management system. While in real-life scenarios, sensors would detect entry and exit of vehicles, this mini demo project employs buttons to simulate entry and exit events. Upon entry, the number of free parking slots decreases, and upon exit, it increases.

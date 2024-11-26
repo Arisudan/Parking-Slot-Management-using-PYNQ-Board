@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 27.04.2024 14:44:22
-// Design Name: 
-// Module Name: parking
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
 
 module Binary_to_Decimal(input [4:0] binary, output [5:0]decimal,[5:0]decimal_tens,[5:0]decimal_ones);
         integer i;

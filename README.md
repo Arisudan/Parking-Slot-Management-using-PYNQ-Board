@@ -140,3 +140,10 @@ Issues, bug reports, or suggestions can be submitted via GitHub Issues.
 This project is open-source and available under the MIT License. You are free to use, modify, and distribute with proper attribution.
 
 ---
+🤝 Contribute
+This repository is maintained by Arisudan.
+Contributions, suggestions, and improvements are always welcome!
+
+Fork the repo • Create a feature branch • Submit a pull request 🚀
+
+---

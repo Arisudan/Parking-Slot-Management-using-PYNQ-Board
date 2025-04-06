@@ -147,3 +147,5 @@ Contributions, suggestions, and improvements are always welcome!
 Fork the repo • Create a feature branch • Submit a pull request 🚀
 
 ---
+### Author: [ARISUDAN TH]
+GitHub: [https://github.com/Arisudan]
